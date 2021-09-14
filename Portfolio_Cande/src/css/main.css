@@ -1,0 +1,48 @@
+.body {
+    background-color: #dbddf1; 
+}
+
+.gallery {
+    margin-top: 30px;
+
+}
+img {
+    max-width: 100%;
+}
+.gallery img {
+    background-color: #fff;
+    padding: 15px;
+    width: 90%;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+#gallery-modal .modal-image {
+    width: 100%;
+}
+.d-flex {
+    flex-wrap: wrap;
+}
+.banner-image {
+    background-image: url("/src/images/candrulissecuestrada\ \(2\).jpg");
+    color: #fff;
+    background-size: cover;
+    background-color: #464646;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#contact {
+    background-color: #fff;
+}
+h1 {
+    margin-left: 170px;
+}
+li {
+    padding: 0 10px
+}
+.bg-dark-gray {
+    background-color: #464646;
+}
+footer {
+    padding-left: 150px;
+}
